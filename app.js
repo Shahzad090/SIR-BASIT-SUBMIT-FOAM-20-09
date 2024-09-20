@@ -18,7 +18,7 @@ import { getAuth,
 
   let name1 = document.getElementById('First name');
 
-  let name2 = document.getElementById('Last name');
+//   let name = document.getElementById('Last name');
 
 let email = document.querySelector('#email');
 
