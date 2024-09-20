@@ -16,7 +16,9 @@ import { getAuth,
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
 
-  let name1 = document.getElementById('name')
+  let name1 = document.getElementById('First name');
+
+  let name2 = document.getElementById('Last name');
 
 let email = document.querySelector('#email');
 
