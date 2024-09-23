@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
+/* background-image: image-set(); */
 
     /* font-family: "Kanit", sans-serif; */
 }
