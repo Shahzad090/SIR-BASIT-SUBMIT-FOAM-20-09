@@ -6,12 +6,12 @@ import { getAuth, onAuthStateChanged, createUserWithEmailAndPassword} from "http
 
 const firebaseConfig = {
     apiKey: "AIzaSyANgtcbgJuF0sPEdlBhLi8yltx6nFcJaXw",
-    authDomain: "fir-form-5e9ba.firebaseapp.com",
-    projectId: "fir-form-5e9ba",
-    storageBucket: "fir-form-5e9ba.appspot.com",
-    messagingSenderId: "171593386514",
-    appId: "1:171593386514:web:038733ffa3eb553885e6cb",
-    measurementId: "G-YHL2NXXTSW"
+    authDomain: "sir-basir-hacathone.firebaseapp.com",
+    projectId: "sir-basir-hacathone",
+    storageBucket: "sir-basir-hacathone.appspot.com",
+    messagingSenderId: "498803428760",
+    appId: "1:498803428760:web:1c6aa33ebf0f1060e9afed",
+    measurementId: "G-G94JDYPGXF"
   };
  
  // Initialize Firebase
